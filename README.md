@@ -1,2 +1,3 @@
-# cordova-cenoura-app
-App Cordova para fins didáticos
+# Cenourapp
+
+1ª versão, HTML e CSS simples. Baixe o zip e faça upload no *PhoneGap Build*
