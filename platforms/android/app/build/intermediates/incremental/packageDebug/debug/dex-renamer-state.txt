@@ -1,4 +1,0 @@
-#Fri May 25 13:20:19 BRT 2018
-base.0=/Users/pcrbrandao/DEVProjects/hybrid/cordova-cenoura-app/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
-renamed.0=classes.dex
-file.0=/Users/pcrbrandao/DEVProjects/hybrid/cordova-cenoura-app/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
